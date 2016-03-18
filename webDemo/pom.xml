@@ -2,7 +2,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>webDemo</groupId>
   <artifactId>webDemo</artifactId>
-  <version></version>
   <packaging>war</packaging>
   <build>
   	<defaultGoal>compile</defaultGoal>
